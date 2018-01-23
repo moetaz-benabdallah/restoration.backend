@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restoration.Web", "Cedro.Restoration.Web\Cedro.Restoration.Web.csproj", "{95609FB3-3A9A-4247-BA07-D220D1C528CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restoration.Data", "Cedro.Restoration.Data\Cedro.Restoration.Data.csproj", "{37899B80-9A79-49E2-804E-7BB47C2B287E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restoration.Repo", "Cedro.Restoration.Repo\Cedro.Restoration.Repo.csproj", "{576AE1AA-EE3F-48C1-B220-5D358B5E229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cedro.Restoration.Service", "Cedro.Restoration.Service\Cedro.Restoration.Service.csproj", "{6E215415-BE4D-4D80-9F5F-E9ECE5011ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95609FB3-3A9A-4247-BA07-D220D1C528CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95609FB3-3A9A-4247-BA07-D220D1C528CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95609FB3-3A9A-4247-BA07-D220D1C528CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95609FB3-3A9A-4247-BA07-D220D1C528CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37899B80-9A79-49E2-804E-7BB47C2B287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37899B80-9A79-49E2-804E-7BB47C2B287E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37899B80-9A79-49E2-804E-7BB47C2B287E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37899B80-9A79-49E2-804E-7BB47C2B287E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576AE1AA-EE3F-48C1-B220-5D358B5E229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576AE1AA-EE3F-48C1-B220-5D358B5E229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576AE1AA-EE3F-48C1-B220-5D358B5E229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576AE1AA-EE3F-48C1-B220-5D358B5E229B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E215415-BE4D-4D80-9F5F-E9ECE5011ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E215415-BE4D-4D80-9F5F-E9ECE5011ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E215415-BE4D-4D80-9F5F-E9ECE5011ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E215415-BE4D-4D80-9F5F-E9ECE5011ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B1CFC4-A1D7-4278-BD1B-9EE4B2B90139}
+	EndGlobalSection
+EndGlobal
